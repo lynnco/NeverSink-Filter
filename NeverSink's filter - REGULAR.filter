@@ -4065,8 +4065,6 @@ SetFontSize 29
 #---------------------------------------------------------------------------------------------------------------
 #This is the spot to add your own rules, that would not invalidate any rules above, but may highlight otherwise hidden things
 
-#WIP
-
 #------------------------------------------------------------------------
 # Section: XXXX # HIDE THE REST THEN FAILSAFE DISPLAY
 #------------------------------------------------------------------------
