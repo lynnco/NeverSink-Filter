@@ -235,6 +235,12 @@
 # Section: ALPHA # GLOBAL OVERRIDE - ADD YOUR OWN RULES THAT WILL OVERRIDE THE OTHERS HERE
 #---------------------------------------------------------------------------------------------------------------
 #
+
+# Hide items I don't use in the full rare set recipe
+Hide
+	Class "One Hand" "Quivers" "Shields" "Claw"
+	Rarity Rare
+
 #---------------------------------------------------------------------------------------------------------------
 # Section: ALPHA-a # Talisman league!
 #---------------------------------------------------------------------------------------------------------------
